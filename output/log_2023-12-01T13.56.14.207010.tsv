@@ -1,0 +1,2 @@
+filename	tile_size	pattern_width	rotations	output_size	ground	attempt_limit	output_periodic	input_periodic	location heuristic	choice heuristic	global constraint	backtracking	attempts	time_start	time_adjacency	adjacency_duration	time solve start	time solve end	solve duration	pattern count	choices	wave	backtracks	propagations	outcome	
+Red Maze	1	2	7	(8, 6)	0	10	True	True	entropy	weighted	False	False	1	1087111.2980827	1087111.4168405	0.002188500016927719	1087111.419029	1087111.5372277	0.11819870001636446	12	13	13	0	26	success	
