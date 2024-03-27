@@ -1,0 +1,3 @@
+<samples>
+	<overlapping name="Spirals" N="4" periodic="True" width="40" height="40"/>
+</samples>
